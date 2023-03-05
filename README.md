@@ -1,37 +1,37 @@
 # Hi, I'm Droniu 👋
 
-I currently work as a Frontend Developer in Saleor Commerce 🚀
+<div align="left">
+    <a href="https://app.daily.dev/droniu"><img width=256 align="right" src="https://api.daily.dev/devcards/145c12b591334c92b9710ab7a5e68878.png?r=r2m" width="400" alt="Droniu's Dev Card"/></a>
+  <div>
 
-I'm also working on my engineering degree in Computer Science at Wroclaw University of Science and Technology.
+👨‍💻 I'm a software enginner specializing in **TypeScript**, with an engineering degree in Computer Science issued by [WUST](https://pwr.edu.pl/en/).
 
-## Tech Stack
-**Frontend**
+Currently working as React Developer in [Saleor Commerce](https://saleor.io/) 🚀
 
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/><img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript"/><img src="https://img.shields.io/badge/-React-23282C?logo=react&logoColor=white&style=for-the-badge" alt="React"/><img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&style=for-the-badge" alt="GraphQL"/>
+I have commercial experience in:
+- building cutting edge **web applications for e-commerce**
+- developing UI libraries
+- working with GraphQL API
 
-<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS"/><img src="https://img.shields.io/badge/-Sass-CC6599?logo=sass&logoColor=white&style=for-the-badge" alt="Sass"/><img src="https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" alt="MUI"/><img src="https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=for-the-badge" alt="MUI"/>
+In my free time I like to expand my knowledge in various areas of computer science doing side projects, acquiring some experience in:
+- Next.js applications
+- Serverless applications using sst framework and AWS ecosystem (Lambda, API Gateway, DynamoDB, Cognito, S3)
+- Deep learning - my engineering thesis was implementation of a medical chatbot, in ChatGPT style
+- Old-school game development in 6502 assembly
 
+I believe in **flexible remote-first approach**, **delivery-driven development** and **quality communication**.
 
-<img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge" alt="Webpack"/><img src="https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" alt="ESLint"/><img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" alt="ESLint"/>
+You can contact me at droniu@droniu.dev. I speak fluent 🇬🇧 English and 🇵🇱 Polish, currently also preparing for DELE B2 in 🇪🇸 Spanish.
 
+  </div>
+</div>
+    
+## Primary tech stack
 
-**ML / Data Science**
-
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/><img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" alt="Jupyter"/>
-
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-
-**Tools**
-
-<img src="https://img.shields.io/badge/-macos-000000?logo=apple&logoColor=white&style=for-the-badge" alt="macOS"/><img src="https://img.shields.io/badge/-zsh-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" alt="zsh"/><img src="https://img.shields.io/badge/-vscode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="Visual Studio Code"/>
-
-<img src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/><img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/><img src="https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
-
-
-
+<img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript"/><img src="https://img.shields.io/badge/-React-23282C?logo=react&logoColor=white&style=for-the-badge" alt="React"/>
 
 ## Stats
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=droniu&theme=radical)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=droniu&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![Github_stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=droniu&theme=radical)![Productive_time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=droniu&theme=radical&utcOffset=1)
 
 ![Profile views](https://gpvc.arturio.dev/droniu)
