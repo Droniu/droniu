@@ -12,6 +12,7 @@ My commercial experience includes:
 - building cutting edge **web applications for e-commerce**
 - developing UI libraries
 - working with GraphQL API
+- solution engineering for e-commerce clients
 
 In my free time I like to expand my knowledge in various areas of computer science doing side projects, acquiring some experience in:
 - 3D rendering - Blender and Three.js
