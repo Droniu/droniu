@@ -4,9 +4,9 @@
     <a href="https://app.daily.dev/droniu"><img width=256 align="right" src="https://api.daily.dev/devcards/145c12b591334c92b9710ab7a5e68878.png?r=r2m" width="400" alt="Droniu's Dev Card"/></a>
   <div>
 
-👨‍💻 I'm a frontend enginner specializing in **TypeScript**. <br />
-💼 Currently working as React Developer in [Saleor Commerce](https://saleor.io/) 🚀 <br />
-🎓 I have an engineering degree in Computer Science issued by [WUST](https://pwr.edu.pl/en/).
+👨‍💻 I'm a full-stack **TypeScript** engineer, however I specialize in complex web front-ends. <br />
+💼 Currently working as Solution Architect in [Saleor Commerce](https://saleor.io/) 🚀 <br />
+🎓 I have a Master's degree in Computer Engineering issued by [WUST](https://pwr.edu.pl/en/).
 
 My commercial experience includes:
 - building cutting edge **web applications for e-commerce**
