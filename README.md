@@ -1,37 +1,35 @@
-# Hi, I'm Droniu 👋
+### Michał Droń
 
-<div align="left">
-    <a href="https://app.daily.dev/droniu"><img width=256 align="right" src="https://api.daily.dev/devcards/145c12b591334c92b9710ab7a5e68878.png?r=r2m" width="400" alt="Droniu's Dev Card"/></a>
-  <div>
+Senior Software Developer based in Wroclaw, Poland.
+I build production systems with TypeScript, Node.js, and AWS — and ship AI-powered products from architecture to deployment.
+Currently working full time at [Craftware](https://craftware.pl/).
 
-👨‍💻 I'm a full-stack **TypeScript** engineer, however I specialize in complex web front-ends. <br />
-💼 Currently working as Solution Architect in [Saleor Commerce](https://saleor.io/) 🚀 <br />
-🎓 I have a Master's degree in Computer Engineering issued by [WUST](https://pwr.edu.pl/en/).
+### What I build
 
-My commercial experience includes:
-- building cutting edge **web applications for e-commerce**
-- developing UI libraries
-- working with GraphQL API
-- solution engineering for e-commerce clients
+**At Craftware** — Cloud infrastructure with AWS, Terraform, Datadog. AI agent systems. Node.js APIs that handle real workloads.
 
-In my free time I like to expand my knowledge in various areas of computer science doing side projects, acquiring some experience in:
-- 3D rendering - Blender and Three.js
-- Next.js applications
-- Deep learning
-- Old-school game development in 6502 assembly
+**At Saleor Commerce** — AI-powered commerce products. Previously worked as a full-stack engineer on the [Saleor Dashboard](https://github.com/saleor/saleor-dashboard) and various Saleor Apps, then moved into a Solution Architect role — working directly with clients to analyze their needs and integrate business logic into the Saleor ecosystem.
 
-I believe in **flexible remote-first approach**, **delivery-driven development** and **quality communication**.
+**At Auretis** (co-founder) — Building an AI-powered E2E testing platform that replaces brittle selector-based tests with visual automation. Handling infrastructure and frontend.
 
-You can contact me at droniu@droniu.dev. I speak fluent 🇬🇧 English, 🇵🇱 Polish and 🇪🇸 Spanish.
+### Stack
 
-  </div>
-</div>
-    
-## Primary tech stack
+**Core** — TypeScript, React, Next.js, Node.js, GraphQL
 
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript"/><img src="https://img.shields.io/badge/-React-23282C?logo=react&logoColor=white&style=for-the-badge" alt="React"/>
+**Infrastructure** — AWS, Terraform
 
-## Stats
+**AI** — Agentic systems, Prompt engineering, Python
 
-![Github_stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=droniu&theme=radical)![Productive_time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=droniu&theme=radical&utcOffset=1)
+**Creative** — Three.js, Blender, 6502 assembly
 
+### Stats
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=droniu&theme=radical)![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=droniu&theme=radical&utcOffset=1)
+
+### Let's talk
+
+I take on select consulting and contract engagements. If you're building something interesting with TypeScript, AI, or cloud infrastructure — I'd like to hear about it.
+
+**Email:** droniu@droniu.dev · **Web:** [droniu.dev](https://droniu.dev)
+
+I work fluently in English, Polish, and Spanish.
