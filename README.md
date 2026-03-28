@@ -3,7 +3,7 @@ Senior Software Developer based in Wroclaw, Poland.
 I build production systems with TypeScript, Node.js, and AWS - and ship AI-powered products from architecture to deployment.
 Currently working full time at [Craftware](https://craftware.pl/).
 
-### What I build
+### 🏗️ What I build
 
 **At Craftware** - Cloud infrastructure with AWS, Terraform, Datadog. AI agent systems. Node.js APIs that handle real workloads.
 
@@ -11,14 +11,14 @@ Currently working full time at [Craftware](https://craftware.pl/).
 
 **At Auretis** (co-founder) - Building an AI-powered E2E testing platform that replaces brittle selector-based tests with visual automation. Handling infrastructure and frontend.
 
-### Stack
+### ⚙️ Stack
 
 **Core** - TypeScript, React, Next.js, Node.js, GraphQL <br />
 **Infrastructure** - AWS, Terraform <br />
 **AI** - Agentic systems, Prompt engineering, Python <br />
 **Creative** - Three.js, Blender, 6502 assembly <br />
 
-### Let's talk
+### ✉️ Let's talk
 
 I take on select consulting and contract engagements. If you're building something interesting with TypeScript, AI, or cloud infrastructure, I'd like to hear about it.
 
