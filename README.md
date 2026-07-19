@@ -1,15 +1,15 @@
 
-Senior Software Developer based in Wroclaw, Poland.
-I build production systems with TypeScript, Node.js, and AWS - and ship AI-powered products from architecture to deployment.
-Currently working full time at [Craftware](https://craftware.pl/).
+Senior Software Developer in Wroclaw, Poland.
+I build production systems with TypeScript, Node.js, and AWS, and ship AI products end to end.
+Full time at [Craftware](https://craftware.pl/). Co-founder at [Auretis](https://auretis.ai).
 
 ### 🏗️ What I build
 
-**At Craftware** - Cloud infrastructure with AWS, Terraform, Datadog. AI agent systems. Node.js APIs that handle real workloads.
+**At Craftware** - Cloud infrastructure with AWS, Terraform, and Datadog. AI agent systems. Node.js APIs that handle real workloads.
 
-**At Saleor Commerce** - AI-powered commerce products. Previously worked as a full-stack engineer on the [Saleor Dashboard](https://github.com/saleor/saleor-dashboard) and various Saleor Apps, then moved into a Solution Architect role where I worked directly with clients to analyze their needs and integrate business logic into the Saleor ecosystem.
+**At Saleor Commerce** - Started as a full-stack engineer on the [Saleor Dashboard](https://github.com/saleor/saleor-dashboard) and several Saleor Apps. Later moved to Solution Architect, working with clients to fit their business logic into the Saleor ecosystem. Most recent work there: AI commerce products.
 
-**At Auretis** (co-founder) - Building an AI-powered E2E testing platform that replaces brittle selector-based tests with visual automation. Handling infrastructure and frontend.
+**At Auretis** (co-founder) - An E2E testing platform where you write tests in plain English. An AI agent finds the elements on a real browser each run, so there are no selectors to break, and deterministic Playwright assertions decide the verdict. Now in private beta at [auretis.ai](https://auretis.ai). I build everything except the agent engine: API, dashboard, cloud infrastructure, docs.
 
 ### ⚙️ Stack
 
@@ -20,7 +20,7 @@ Currently working full time at [Craftware](https://craftware.pl/).
 
 ### ✉️ Let's talk
 
-I take on select consulting and contract engagements. If you're building something interesting with TypeScript, AI, or cloud infrastructure, I'd like to hear about it.
+I take on select consulting and contract work. If you're building something with TypeScript, AI, or cloud infrastructure, I'd like to hear about it.
 
 **Email:** droniu@droniu.dev · **Web:** [droniu.dev](https://droniu.dev)
 
